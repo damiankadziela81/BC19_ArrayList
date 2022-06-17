@@ -12,6 +12,7 @@ public class Main {
 
         food.set(2,"eggs");
         food.remove(0);
+        food.clear();
 
         for (String element: food
              ) {
